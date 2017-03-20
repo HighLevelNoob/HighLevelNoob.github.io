@@ -86,3 +86,10 @@ h2#title{
 	color: salmon;
 	font-size: 30px;
 }
+h5#download{
+	background-color: white;
+	width: 20%;
+	border: 2px solid salmon;
+	color: salmon;
+	font-size: 25px;
+}
