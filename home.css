@@ -1,2 +1,15 @@
-head{
-background-image: 
+header{
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Art.jpg?raw=true");
+	background-attachment: fixed;
+	background-size: cover;
+	height: 1000px;
+}
+
+nav{
+	background-color: gray;
+	height: 50px;
+}
+
+body{
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/vectror%20planet%20back.jpg?raw=true");
+}
