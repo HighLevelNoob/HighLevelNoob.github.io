@@ -1,15 +1,100 @@
+/*----------Head-----------*/
 header{
 	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Art.jpg?raw=true");
 	background-attachment: fixed;
 	background-size: cover;
-	height: 1000px;
+	height: 750px;
 }
 
+/*----------Nav-----------*/
 nav{
-	background-color: gray;
+	background-color: white;
 	height: 50px;
+	border: 8px solid salmon;
+	color: salmon;
 }
-
+button#nav{
+	font-size: 30px;
+	color: salmon;
+	border: 2px solid salmon;
+	background-color: white;
+	height: 50px;
+	width: 200px;
+	transition-property: border-color;
+	transition-timing-function: ease;
+	transition-duration: 0.3s;
+}
+button#nav:hover{
+	border-color: white;
+}
+/*----------Body----------*/
 body{
 	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/vectror%20planet%20back.jpg?raw=true");
+	font-family: verdana;
 }
+
+
+h1#welcome{
+	margin: auto;
+	text-align: center;
+	width: 700px;
+	background-color: white;
+	border: 4px solid salmon;
+	color: salmon;
+	font-size: 45px;
+}
+
+
+iframe{
+	border: 5px solid;
+	border-color: salmon;
+	transition-property: border-color;
+	transition-duration: 0.3s;
+	transition-timing-function: ease;
+	margin: center;
+	background-color: white;
+	color: salmon;
+}
+iframe:hover{
+	border-color: white;
+}
+
+
+img#profile{
+	height: 300px;
+}
+
+/*----------Foot----------*/
+footer{
+	width: 1000px;
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/footer%20banner.jpg?raw=true");
+	background-size: cover;
+	height: 100px;
+	border: 3px solid salmon;
+	margin: auto;
+}
+
+img#follow{
+	height: 50px;
+	opacity: 0.5;
+	transition-property: opacity;
+	transition-duration: 0.3s;
+	transition-timing-function: ease;
+}
+img#follow:hover{
+	opacity: 1;
+}
+
+h1#find{
+	color: salmon;
+	text-align: center;
+	position: relative;
+	top: -20px;
+}
+
+
+
+
+
+
+
