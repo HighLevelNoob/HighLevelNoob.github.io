@@ -1,6 +1,6 @@
 /*----------Head-----------*/
 header{
-	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Art.jpg?raw=true");
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Images/Art.jpg?raw=true");
 	background-attachment: fixed;
 	background-size: cover;
 	height: 750px;
@@ -29,7 +29,7 @@ button#nav:hover{
 }
 /*----------Body----------*/
 body{
-	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/vectror%20planet%20back.jpg?raw=true");
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Images/vectror%20planet%20back.jpg?raw=true");
 	font-family: verdana;
 }
 
@@ -67,7 +67,7 @@ img#profile{
 /*----------Foot----------*/
 footer{
 	width: 1000px;
-	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/footer%20banner.jpg?raw=true");
+	background-image: url("https://github.com/HighLevelNoob/HighLevelNoob.github.io/blob/master/Images/footer%20banner.jpg?raw=true");
 	background-size: cover;
 	height: 100px;
 	border: 3px solid salmon;
